@@ -1,9 +1,9 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Denis%20Pajaziti&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Engineer%20•%20Azure%20•%20DevOps%20•%20Enterprise%20AI&descAlignY=58&descSize=22&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Denis%20Pajaziti&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Engineer%20•%20Azure%20•%20DevOps%20•%20Enterprise%20AI&descAlignY=58&descSize=22&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2200&color=3B82F6&center=true&vCenter=true&width=850&lines=Microsoft+Certified+Azure+AI+Engineer;Building+Enterprise+Cloud+Platforms;Azure+•+Terraform+•+DevOps+•+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=3B82F6&center=true&vCenter=true&width=850&lines=Microsoft+Certified+Azure+AI+Engineer;Building+Enterprise+Cloud+Platforms;Azure+•+Terraform+•+DevOps+•+AI"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:denis.pajaziti.bus@proton.me">
 <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -22,23 +22,33 @@
 
 ---
 
-# 👋 About Me
+<table>
+<tr>
 
-I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** based in Germany.
+<td width="70%" valign="top">
 
-I specialize in designing modern cloud platforms on **Microsoft Azure**, automating infrastructure through **Terraform**, building reliable **CI/CD pipelines**, and developing **enterprise AI solutions** using Azure OpenAI.
+## 👋 About Me
 
-I enjoy solving complex engineering challenges by combining cloud architecture, DevOps, automation and artificial intelligence.
+I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** from Germany.
 
----
+I specialize in designing secure cloud architectures, automating infrastructure using Terraform, building enterprise-grade CI/CD pipelines and delivering AI-powered solutions on Microsoft Azure.
 
-# 🏅 Certification
+My passion lies in combining **Cloud**, **DevOps**, and **Artificial Intelligence** to build scalable, production-ready platforms.
 
-<p align="center">
+</td>
+
+<td width="30%" align="center" valign="top">
+
+## 🏅 Certification
+
+<br>
 
 <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -46,29 +56,29 @@ I enjoy solving complex engineering challenges by combining cloud architecture, 
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=terraform" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cs" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=terraform"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet"></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=powershell" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=powershell"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github"></td>
 </tr>
 </table>
 
@@ -76,11 +86,21 @@ I enjoy solving complex engineering challenges by combining cloud architecture, 
 
 # 🚀 Current Focus
 
-- ☁️ Enterprise Cloud Architecture
-- 🤖 Azure OpenAI & Generative AI
-- ⚙️ Infrastructure as Code (Terraform)
-- 🚀 CI/CD & DevOps Automation
-- 🏗️ Platform Engineering
+<p align="center">
+
+<img src="https://img.shields.io/badge/☁️%20Enterprise%20Cloud%20Architecture-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖%20Azure%20OpenAI-6D4AFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚙️%20Terraform-844FBA?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20DevOps%20Automation-2088FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏗️%20Platform%20Engineering-1F2937?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -104,19 +124,6 @@ I enjoy solving complex engineering challenges by combining cloud architecture, 
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| ☁️ Azure Enterprise Landing Zone | Enterprise-ready Azure infrastructure built with Terraform |
-| 🤖 Azure OpenAI RAG | Retrieval-Augmented Generation platform powered by Azure OpenAI |
-| ⚙️ GitHub Actions Templates | Reusable CI/CD workflows for Azure & .NET |
-| 🔍 Azure AI Search | Enterprise semantic search solution |
-| 🏗️ Terraform Modules | Reusable Infrastructure as Code modules |
-| 🐳 DevOps Toolkit | Automation, Docker and deployment tooling |
-
----
-
 # 📫 Connect
 
 <p align="center">
@@ -125,7 +132,7 @@ I enjoy solving complex engineering challenges by combining cloud architecture, 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:denis.pajaziti.bus@proton.me">
 <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -133,10 +140,14 @@ I enjoy solving complex engineering challenges by combining cloud architecture, 
 
 </p>
 
----
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=denis-pajaziti&style=for-the-badge&color=0A66C2"/>
+
+</p>
 
 <p align="center">
 
-<i>Building modern cloud platforms with Azure, DevOps and AI.</i>
+### Building modern cloud platforms with Azure, DevOps & AI.
 
 </p>
