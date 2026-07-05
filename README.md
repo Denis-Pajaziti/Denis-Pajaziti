@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=720&lines=Microsoft+Certified+Azure+AI+Engineer;Building+Scalable+Cloud+Solutions;Azure+•+Terraform+•+DevOps+•+AI;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=750&lines=Microsoft+Certified+Azure+AI+Engineer;Cloud+Architecture+•+DevOps+•+Enterprise+AI;Building+Scalable+Cloud+Platforms;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -22,20 +22,13 @@
 
 # 👋 About Me
 
-I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** from Germany, specializing in cloud architecture, DevOps automation, Infrastructure as Code, and enterprise AI solutions built on Microsoft Azure.
+I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** from Germany with a passion for cloud architecture, DevOps automation, Infrastructure as Code, and enterprise AI solutions built on Microsoft Azure.
 
-I enjoy transforming complex technical challenges into scalable, secure, and maintainable cloud platforms.
-
-- ☁️ Microsoft Azure
-- 🤖 Azure AI & Azure OpenAI
-- ⚙️ Terraform & Infrastructure as Code
-- 🚀 GitHub Actions & CI/CD
-- 🐳 Docker & Kubernetes
-- 💻 C#, .NET & Python
+I enjoy designing secure, scalable, and maintainable cloud platforms while continuously learning and exploring modern technologies.
 
 ---
 
-# 🏅 Certifications
+# 🏅 Certification
 
 <p align="center">
 
@@ -49,7 +42,11 @@ I enjoy transforming complex technical challenges into scalable, secure, and mai
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,git,linux,bash,cs,dotnet,python,powershell,js,ts,html,css,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,git,linux,bash,cs,dotnet"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,powershell,js,ts,html,css,vscode,visualstudio,postman,github"/>
 
 </p>
 
@@ -57,26 +54,11 @@ I enjoy transforming complex technical challenges into scalable, secure, and mai
 
 # 🚀 Current Focus
 
-- Enterprise AI Solutions
-- Azure OpenAI
-- Azure AI Search
-- Retrieval-Augmented Generation (RAG)
-- Cloud Architecture
-- Infrastructure as Code
-- CI/CD Automation
-- Platform Engineering
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=denis-pajaziti&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-pajaziti&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+- ☁️ Enterprise Cloud Architecture
+- 🤖 Azure OpenAI & AI Solutions
+- ⚙️ Infrastructure as Code (Terraform)
+- 🚀 CI/CD & DevOps Automation
+- 🏗️ Platform Engineering
 
 ---
 
@@ -94,31 +76,7 @@ I enjoy transforming complex technical challenges into scalable, secure, and mai
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=denis-pajaziti&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🛠️ Featured Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denis-pajaziti&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -126,26 +84,28 @@ I enjoy transforming complex technical challenges into scalable, secure, and mai
 
 # 🚀 Featured Projects
 
-> These repositories showcase my work in Azure, DevOps, AI, and cloud-native engineering.
+> Public repositories coming soon.
 
 | Project | Description |
-|----------|-------------|
+|---------|-------------|
 | ☁️ Azure Enterprise Landing Zone | Enterprise-ready Azure infrastructure built with Terraform |
-| 🤖 Azure OpenAI RAG Platform | AI-powered Retrieval-Augmented Generation platform |
+| 🤖 Azure OpenAI RAG | AI-powered Retrieval-Augmented Generation platform |
 | ⚙️ GitHub Actions Templates | Reusable CI/CD workflows for Azure & .NET |
-| 🔎 Azure AI Search | Enterprise semantic search powered by Azure AI Search |
-| 🏗️ Terraform Modules | Modular Infrastructure as Code components |
-| 🐳 DevOps Toolkit | Docker, automation scripts and deployment tooling |
+| 🔎 Azure AI Search | Semantic search with Azure AI Search |
+| 🏗️ Terraform Modules | Modular Infrastructure as Code |
+| 🐳 DevOps Toolkit | Docker, automation & deployment tooling |
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/denis-pajaziti">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:denis.pajaziti.bus@proton.me">
 <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -157,14 +117,14 @@ I enjoy transforming complex technical challenges into scalable, secure, and mai
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=denis-pajaziti&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=denis-pajaziti&style=for-the-badge&color=0A66C2"/>
 
 </p>
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting 👋
 
-*"Building modern cloud solutions one commit at a time."*
+*"Building modern cloud solutions, one commit at a time."*
 
 </p>
