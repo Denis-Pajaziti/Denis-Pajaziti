@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Denis Pajaziti</h1>
 
-<!--
-**Denis-Pajaziti/Denis-Pajaziti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Solution Developer • Cloud Engineer • DevOps • AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable cloud solutions with Azure, Terraform, GitHub Actions, Azure DevOps and AI.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Solution Developer at Aithoria GmbH
+- ☁️ Azure Cloud & DevOps Engineer
+- 🤖 Passionate about AI, LLMs and Azure OpenAI
+- 🔧 Infrastructure as Code with Terraform
+- 🐳 Docker & Kubernetes
+- ⚙️ CI/CD with GitHub Actions & Azure DevOps
+- 🇩🇪 Germany
+
+---
+
+## 🛠 Tech Stack
+
+### Cloud
+
+Azure • Azure OpenAI • Azure AI Search • Azure Blob Storage • Azure Functions
+
+### DevOps
+
+Terraform • GitHub Actions • Docker • Kubernetes • Azure DevOps
+
+### Languages
+
+C# • PowerShell • Python • JavaScript • TypeScript
+
+### Backend
+
+.NET • REST APIs
+
+### AI
+
+Azure OpenAI
+RAG
+Prompt Engineering
+Vector Search
+Semantic Search
+
+---
+
+## 📈 Current Focus
+
+- Enterprise AI
+- Cloud Automation
+- DevOps
+- Platform Engineering
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 📫 Connect
+
+LinkedIn:
+https://linkedin.com/in/denis-pajaziti
