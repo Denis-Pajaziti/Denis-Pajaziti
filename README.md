@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Denis%20Pajaziti&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Engineer%20•%20Azure%20•%20DevOps%20•%20Enterprise%20AI&descAlignY=58&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Denis%20Pajaziti&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Engineer%20•%20Azure%20•%20DevOps%20•%20Enterprise%20AI&descAlignY=58&descSize=22&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=750&lines=Microsoft+Certified+Azure+AI+Engineer;Cloud+Architecture+•+DevOps+•+Enterprise+AI;Building+Scalable+Cloud+Platforms;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2200&color=3B82F6&center=true&vCenter=true&width=850&lines=Microsoft+Certified+Azure+AI+Engineer;Building+Enterprise+Cloud+Platforms;Azure+•+Terraform+•+DevOps+•+AI"/>
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
 <a href="https://linkedin.com/in/denis-pajaziti">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:denis.pajaziti.bus@proton.me">
 <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -22,9 +24,11 @@
 
 # 👋 About Me
 
-I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** from Germany with a passion for cloud architecture, DevOps automation, Infrastructure as Code, and enterprise AI solutions built on Microsoft Azure.
+I'm a **Microsoft Certified Azure AI Engineer Associate** and **Solution Developer** based in Germany.
 
-I enjoy designing secure, scalable, and maintainable cloud platforms while continuously learning and exploring modern technologies.
+I specialize in designing modern cloud platforms on **Microsoft Azure**, automating infrastructure through **Terraform**, building reliable **CI/CD pipelines**, and developing **enterprise AI solutions** using Azure OpenAI.
+
+I enjoy solving complex engineering challenges by combining cloud architecture, DevOps, automation and artificial intelligence.
 
 ---
 
@@ -32,7 +36,7 @@ I enjoy designing secure, scalable, and maintainable cloud platforms while conti
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </p>
 
@@ -40,22 +44,40 @@ I enjoy designing secure, scalable, and maintainable cloud platforms while conti
 
 # 💻 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=terraform" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" /></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,git,linux,bash,cs,dotnet"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,powershell,js,ts,html,css,vscode,visualstudio,postman,github"/>
-
-</p>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=powershell" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Current Focus
 
 - ☁️ Enterprise Cloud Architecture
-- 🤖 Azure OpenAI & AI Solutions
+- 🤖 Azure OpenAI & Generative AI
 - ⚙️ Infrastructure as Code (Terraform)
 - 🚀 CI/CD & DevOps Automation
 - 🏗️ Platform Engineering
@@ -84,16 +106,14 @@ I enjoy designing secure, scalable, and maintainable cloud platforms while conti
 
 # 🚀 Featured Projects
 
-> Public repositories coming soon.
-
 | Project | Description |
-|---------|-------------|
+|----------|-------------|
 | ☁️ Azure Enterprise Landing Zone | Enterprise-ready Azure infrastructure built with Terraform |
-| 🤖 Azure OpenAI RAG | AI-powered Retrieval-Augmented Generation platform |
+| 🤖 Azure OpenAI RAG | Retrieval-Augmented Generation platform powered by Azure OpenAI |
 | ⚙️ GitHub Actions Templates | Reusable CI/CD workflows for Azure & .NET |
-| 🔎 Azure AI Search | Semantic search with Azure AI Search |
-| 🏗️ Terraform Modules | Modular Infrastructure as Code |
-| 🐳 DevOps Toolkit | Docker, automation & deployment tooling |
+| 🔍 Azure AI Search | Enterprise semantic search solution |
+| 🏗️ Terraform Modules | Reusable Infrastructure as Code modules |
+| 🐳 DevOps Toolkit | Automation, Docker and deployment tooling |
 
 ---
 
@@ -117,14 +137,6 @@ I enjoy designing secure, scalable, and maintainable cloud platforms while conti
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=denis-pajaziti&style=for-the-badge&color=0A66C2"/>
-
-</p>
-
-<p align="center">
-
-### Thanks for visiting 👋
-
-*"Building modern cloud solutions, one commit at a time."*
+<i>Building modern cloud platforms with Azure, DevOps and AI.</i>
 
 </p>
